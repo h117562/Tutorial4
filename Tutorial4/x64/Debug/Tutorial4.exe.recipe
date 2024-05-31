@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\Directx11 Projects\Tutorial4\x64\Debug\Tutorial4.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\Directx11 Projects\Tutorial4\x64\Debug\ColorPs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Directx11 Projects\Tutorial4\x64\Debug\ColorVs.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

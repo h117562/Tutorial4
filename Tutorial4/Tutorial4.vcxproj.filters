@@ -13,5 +13,65 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="DirectX">
+      <UniqueIdentifier>{b2b5a7ad-5d3c-4728-871a-4885bcfbed1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DirectX\ColorShader">
+      <UniqueIdentifier>{55bde962-5a78-43cf-8c32-cb5c829d281d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DirectX\ModelClass">
+      <UniqueIdentifier>{fb86b9e8-afbf-4d7b-b4d7-3a9127d08c2c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="D3DClass.cpp">
+      <Filter>DirectX</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemClass.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ApplicationClass.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ColorShaderClass.cpp">
+      <Filter>DirectX\ColorShader</Filter>
+    </ClCompile>
+    <ClCompile Include="ModelClass.cpp">
+      <Filter>DirectX\ModelClass</Filter>
+    </ClCompile>
+    <ClCompile Include="CameraClass.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D3DClass.h">
+      <Filter>DirectX</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemClass.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ApplicationClass.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ColorShaderClass.h">
+      <Filter>DirectX\ColorShader</Filter>
+    </ClInclude>
+    <ClInclude Include="ModelClass.h">
+      <Filter>DirectX\ModelClass</Filter>
+    </ClInclude>
+    <ClInclude Include="CameraClass.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="ColorPs.hlsl">
+      <Filter>DirectX\ColorShader</Filter>
+    </FxCompile>
+    <FxCompile Include="ColorVs.hlsl">
+      <Filter>DirectX\ColorShader</Filter>
+    </FxCompile>
   </ItemGroup>
 </Project>
