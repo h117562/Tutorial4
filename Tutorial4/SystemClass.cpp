@@ -31,10 +31,10 @@ bool SystemClass::Initialize()
 	//윈도우 핸들 가져오기
 	m_hinstance = GetModuleHandle(NULL);
 
-	//프로그램 이름
+	//윈도우 이름
 	m_applicationName = L"Tutorial4";
 
-	//윈도우 클래스 세팅
+	//윈도우 클래스 설정
 	wc.style = CS_HREDRAW | CS_VREDRAW | CS_OWNDC;
 	wc.lpfnWndProc = WndProc;
 	wc.cbClsExtra = 0;
@@ -96,7 +96,7 @@ void SystemClass::Run()
 	bool done, result;
 
 
-	//메모리 0으로 초기화
+	//변수 초기화
 	ZeroMemory(&msg, sizeof(MSG));
 
 
@@ -130,7 +130,6 @@ void SystemClass::Run()
 	return;
 }
 
-
 bool SystemClass::Frame()
 {
 	bool result;
@@ -144,19 +143,10 @@ bool SystemClass::Frame()
 	return true;
 }
 
-
-LRESULT CALLBACK SystemClass::MessageHandler(HWND hwnd, UINT umsg, WPARAM wparam, LPARAM lparam)
-{
-	return DefWindowProc(hwnd, umsg, wparam, lparam);
-}
-
-
-
-
 void SystemClass::ShutdownWindows()
 {
 
-	//윈도우 삭제
+	//핸들 삭제
 	DestroyWindow(m_hwnd);
 	m_hwnd = NULL;
 
@@ -170,26 +160,26 @@ void SystemClass::ShutdownWindows()
 	return;
 }
 
+LRESULT CALLBACK SystemClass::MessageHandler(HWND hwnd, UINT umsg, WPARAM wparam, LPARAM lparam)
+{
+	return DefWindowProc(hwnd, umsg, wparam, lparam);
+}
+
 
 LRESULT CALLBACK WndProc(HWND hwnd, UINT umessage, WPARAM wparam, LPARAM lparam)
 {
 	switch (umessage)
 	{
-		//Check if the window is being destroyed.
 	case WM_DESTROY:
 	{
 		PostQuitMessage(0);
 		return 0;
 	}
-
-	// Check if the window is being closed.
 	case WM_CLOSE:
 	{
 		PostQuitMessage(0);
 		return 0;
 	}
-
-	//All other messages pass to the message handler in the system class.
 	default:
 	{
 		return ApplicationHandle->MessageHandler(hwnd, umessage, wparam, lparam);

@@ -23,13 +23,13 @@ bool ModelClass::Initialize(ID3D11Device* device)
 
 	//삼각형의 정점을 저장하는 부분
 	//컬러는 빨간색으로
-	m_triangle[0].position = XMFLOAT3(-2.0f, -2.0f, 0.0f);
+	m_triangle[0].position = XMFLOAT3(-1.0f, -1.0f, 0.0f);
 	m_triangle[0].color = XMFLOAT4(1.0f, 0.0f, 0.0f, 1.0f);
 
-	m_triangle[1].position = XMFLOAT3(0.0f, 2.0f, 0.0f);
+	m_triangle[1].position = XMFLOAT3(0.0f, 1.0f, 0.0f);
 	m_triangle[1].color = XMFLOAT4(1.0f, 0.0f, 0.0f, 1.0f);
 
-	m_triangle[2].position = XMFLOAT3(2.0f, -2.0f, 0.0f);
+	m_triangle[2].position = XMFLOAT3(1.0f, -1.0f, 0.0f);
 	m_triangle[2].color = XMFLOAT4(1.0f, 0.0f, 0.0f, 1.0f);
 
 	m_indices[0] = 0;
