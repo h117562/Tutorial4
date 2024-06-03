@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+.vs/Tutorial4/v17/Browse.VC.opendb
+.vs/Tutorial4/v17/Browse.VC.db-wal
+.vs/Tutorial4/v17/Browse.VC.db-shm
+.vs/Tutorial4/FileContentIndex/e84b63d8-21b2-44e3-bca7-eaa0e5993c0d.vsidx
