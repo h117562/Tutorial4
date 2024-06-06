@@ -192,24 +192,8 @@ bool D3DClass::Initialize(bool vsync, HWND hwnd, bool fullscreen, float screenDe
 	featureLevel = D3D_FEATURE_LEVEL_11_0;
 
 	//Direct Device 积己
-	result = D3D11CreateDevice(NULL, D3D_DRIVER_TYPE_HARDWARE, NULL, D3D11_CREATE_DEVICE_BGRA_SUPPORT, &featureLevel, 1,
-		D3D11_SDK_VERSION, &pDevice, NULL, &m_deviceContext);
-	if (FAILED(result))
-	{
-		return false;
-	}
-
-	result = pDevice->QueryInterface(&m_device);
-	if (FAILED(result)){return false;}
-	result = pDevice->QueryInterface(&m_DXGIDevice);
-	if (FAILED(result)) { return false; }
-	result = m_DXGIDevice->GetAdapter(&m_Adapter);
-	if (FAILED(result)) { return false; }
-	result = m_Adapter->GetParent(IID_PPV_ARGS(&m_DXGIFactory));
-	if (FAILED(result)) { return false; }
-
-	//胶恳 眉牢 积己
-	result = m_DXGIFactory->CreateSwapChain(m_device, &swapChainDesc, &m_swapChain);
+	result = D3D11CreateDeviceAndSwapChain(NULL, D3D_DRIVER_TYPE_HARDWARE, NULL, 0, &featureLevel, 1,
+		D3D11_SDK_VERSION, &swapChainDesc, &m_swapChain, &m_device, NULL, &m_deviceContext);
 	if (FAILED(result))
 	{
 		return false;
