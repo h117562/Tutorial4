@@ -2,15 +2,15 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\Directx11 Projects\Tutorial4\x64\Debug\Tutorial4.exe</FullPath>
+      <FullPath>D:\Github\DirectX\Tutorial4\x64\Debug\Tutorial4.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles>
     <ContentFile>
-      <FullPath>D:\Directx11 Projects\Tutorial4\x64\Debug\ColorPs.cso</FullPath>
+      <FullPath>D:\Github\DirectX\Tutorial4\x64\Debug\ColorPs.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>D:\Directx11 Projects\Tutorial4\x64\Debug\ColorVs.cso</FullPath>
+      <FullPath>D:\Github\DirectX\Tutorial4\x64\Debug\ColorVs.cso</FullPath>
     </ContentFile>
   </ContentFiles>
   <SatelliteDlls />

@@ -1,65 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Directx11 Projects\\Tutorial4\\",
+  "WorkspaceRootPath": "D:\\Github\\DirectX\\Tutorial4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\D3DClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|solutionrelative:Tutorial4\\D3DClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\D3DClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|solutionrelative:Tutorial4\\D3DClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\ApplicationClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|solutionrelative:Tutorial4\\ApplicationClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\SystemClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|solutionrelative:Tutorial4\\SystemClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\CameraClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|solutionrelative:Tutorial4\\CameraClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\ModelClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\ModelClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|solutionrelative:Tutorial4\\ModelClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\SystemClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\ApplicationClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|solutionrelative:Tutorial4\\ApplicationClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\D3DClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|solutionrelative:Tutorial4\\D3DClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\D3DClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|solutionrelative:Tutorial4\\D3DClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\SystemClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|solutionrelative:Tutorial4\\SystemClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\CameraClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|solutionrelative:Tutorial4\\CameraClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\SystemClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|solutionrelative:Tutorial4\\SystemClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|solutionrelative:Tutorial4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\CameraClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\CameraClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|solutionrelative:Tutorial4\\CameraClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\ApplicationClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\ApplicationClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|solutionrelative:Tutorial4\\ApplicationClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\ColorShaderClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\ColorShaderClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|solutionrelative:Tutorial4\\ColorShaderClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\ColorShaderClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\ColorShaderClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|solutionrelative:Tutorial4\\ColorShaderClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\ColorVs.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\ColorVs.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|solutionrelative:Tutorial4\\ColorVs.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\ColorPs.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\ColorPs.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|solutionrelative:Tutorial4\\ColorPs.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\ModelClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\ModelClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8AD919B7-6F2C-4142-8E70-5D8DBB667F7B}|Tutorial4\\Tutorial4.vcxproj|solutionrelative:Tutorial4\\ModelClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -70,33 +70,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "ModelClass.cpp",
-              "DocumentMoniker": "D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\ModelClass.cpp",
+              "DocumentMoniker": "D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\ModelClass.cpp",
               "RelativeDocumentMoniker": "Tutorial4\\ModelClass.cpp",
-              "ToolTip": "D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\ModelClass.cpp",
+              "ToolTip": "D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\ModelClass.cpp",
               "RelativeToolTip": "Tutorial4\\ModelClass.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAMAAAA",
+              "ViewState": "AgIAADkAAAAAAAAAAAApwEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-31T16:52:04.79Z"
+              "WhenOpened": "2024-05-31T16:52:04.79Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ApplicationClass.cpp",
-              "DocumentMoniker": "D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\ApplicationClass.cpp",
+              "DocumentMoniker": "D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\ApplicationClass.cpp",
               "RelativeDocumentMoniker": "Tutorial4\\ApplicationClass.cpp",
-              "ToolTip": "D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\ApplicationClass.cpp",
+              "ToolTip": "D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\ApplicationClass.cpp",
               "RelativeToolTip": "Tutorial4\\ApplicationClass.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAgAAAA",
+              "ViewState": "AgIAAF0AAAAAAAAAAAApwG0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-29T05:53:34.183Z"
             },
@@ -104,9 +101,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "main.cpp",
-              "DocumentMoniker": "D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\main.cpp",
+              "DocumentMoniker": "D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\main.cpp",
               "RelativeDocumentMoniker": "Tutorial4\\main.cpp",
-              "ToolTip": "D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\main.cpp",
+              "ToolTip": "D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\main.cpp",
               "RelativeToolTip": "Tutorial4\\main.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -114,37 +111,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "D3DClass.cpp",
-              "DocumentMoniker": "D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\D3DClass.cpp",
+              "DocumentMoniker": "D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\D3DClass.cpp",
               "RelativeDocumentMoniker": "Tutorial4\\D3DClass.cpp",
-              "ToolTip": "D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\D3DClass.cpp",
+              "ToolTip": "D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\D3DClass.cpp",
               "RelativeToolTip": "Tutorial4\\D3DClass.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-31T16:52:14.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T16:52:14.472Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "D3DClass.h",
-              "DocumentMoniker": "D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\D3DClass.h",
+              "DocumentMoniker": "D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\D3DClass.h",
               "RelativeDocumentMoniker": "Tutorial4\\D3DClass.h",
-              "ToolTip": "D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\D3DClass.h",
+              "ToolTip": "D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\D3DClass.h",
               "RelativeToolTip": "Tutorial4\\D3DClass.h",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAmwEUAAAACAAAA",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwEUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-31T16:54:41.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T16:54:41.144Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CameraClass.cpp",
-              "DocumentMoniker": "D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\CameraClass.cpp",
+              "DocumentMoniker": "D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\CameraClass.cpp",
               "RelativeDocumentMoniker": "Tutorial4\\CameraClass.cpp",
-              "ToolTip": "D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\CameraClass.cpp",
+              "ToolTip": "D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\CameraClass.cpp",
               "RelativeToolTip": "Tutorial4\\CameraClass.cpp",
               "ViewState": "AQIAABYAAAAAAAAAAADgvy0AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -152,11 +147,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SystemClass.cpp",
-              "DocumentMoniker": "D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\SystemClass.cpp",
+              "DocumentMoniker": "D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\SystemClass.cpp",
               "RelativeDocumentMoniker": "Tutorial4\\SystemClass.cpp",
-              "ToolTip": "D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\SystemClass.cpp",
+              "ToolTip": "D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\SystemClass.cpp",
               "RelativeToolTip": "Tutorial4\\SystemClass.cpp",
               "ViewState": "AQIAAJIAAAAAAAAAAAAYwLMAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -166,9 +161,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "CameraClass.h",
-              "DocumentMoniker": "D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\CameraClass.h",
+              "DocumentMoniker": "D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\CameraClass.h",
               "RelativeDocumentMoniker": "Tutorial4\\CameraClass.h",
-              "ToolTip": "D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\CameraClass.h",
+              "ToolTip": "D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\CameraClass.h",
               "RelativeToolTip": "Tutorial4\\CameraClass.h",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAYAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -178,9 +173,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "SystemClass.h",
-              "DocumentMoniker": "D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\SystemClass.h",
+              "DocumentMoniker": "D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\SystemClass.h",
               "RelativeDocumentMoniker": "Tutorial4\\SystemClass.h",
-              "ToolTip": "D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\SystemClass.h",
+              "ToolTip": "D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\SystemClass.h",
               "RelativeToolTip": "Tutorial4\\SystemClass.h",
               "ViewState": "AQIAAAUAAAAAAAAAAAAmwBoAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -190,9 +185,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "ApplicationClass.h",
-              "DocumentMoniker": "D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\ApplicationClass.h",
+              "DocumentMoniker": "D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\ApplicationClass.h",
               "RelativeDocumentMoniker": "Tutorial4\\ApplicationClass.h",
-              "ToolTip": "D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\ApplicationClass.h",
+              "ToolTip": "D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\ApplicationClass.h",
               "RelativeToolTip": "Tutorial4\\ApplicationClass.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -202,9 +197,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "ColorShaderClass.cpp",
-              "DocumentMoniker": "D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\ColorShaderClass.cpp",
+              "DocumentMoniker": "D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\ColorShaderClass.cpp",
               "RelativeDocumentMoniker": "Tutorial4\\ColorShaderClass.cpp",
-              "ToolTip": "D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\ColorShaderClass.cpp",
+              "ToolTip": "D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\ColorShaderClass.cpp",
               "RelativeToolTip": "Tutorial4\\ColorShaderClass.cpp",
               "ViewState": "AQIAAEgAAAAAAAAAAAAAAGAAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -214,9 +209,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "ColorShaderClass.h",
-              "DocumentMoniker": "D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\ColorShaderClass.h",
+              "DocumentMoniker": "D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\ColorShaderClass.h",
               "RelativeDocumentMoniker": "Tutorial4\\ColorShaderClass.h",
-              "ToolTip": "D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\ColorShaderClass.h",
+              "ToolTip": "D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\ColorShaderClass.h",
               "RelativeToolTip": "Tutorial4\\ColorShaderClass.h",
               "ViewState": "AQIAAAIAAAAAAAAAAADwvyoAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -226,9 +221,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "ColorVs.hlsl",
-              "DocumentMoniker": "D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\ColorVs.hlsl",
+              "DocumentMoniker": "D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\ColorVs.hlsl",
               "RelativeDocumentMoniker": "Tutorial4\\ColorVs.hlsl",
-              "ToolTip": "D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\ColorVs.hlsl",
+              "ToolTip": "D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\ColorVs.hlsl",
               "RelativeToolTip": "Tutorial4\\ColorVs.hlsl",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
@@ -238,9 +233,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "ColorPs.hlsl",
-              "DocumentMoniker": "D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\ColorPs.hlsl",
+              "DocumentMoniker": "D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\ColorPs.hlsl",
               "RelativeDocumentMoniker": "Tutorial4\\ColorPs.hlsl",
-              "ToolTip": "D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\ColorPs.hlsl",
+              "ToolTip": "D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\ColorPs.hlsl",
               "RelativeToolTip": "Tutorial4\\ColorPs.hlsl",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
@@ -250,9 +245,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "ModelClass.h",
-              "DocumentMoniker": "D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\ModelClass.h",
+              "DocumentMoniker": "D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\ModelClass.h",
               "RelativeDocumentMoniker": "Tutorial4\\ModelClass.h",
-              "ToolTip": "D:\\Directx11 Projects\\Tutorial4\\Tutorial4\\ModelClass.h",
+              "ToolTip": "D:\\Github\\DirectX\\Tutorial4\\Tutorial4\\ModelClass.h",
               "RelativeToolTip": "Tutorial4\\ModelClass.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
